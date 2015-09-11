@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background_image/Heise10.jpg</file>
+        <file>background_image/Heise11.jpg</file>
+        <file>background_image/Heise12.jpg</file>
+        <file>background_image/Heise13.jpg</file>
+        <file>background_image/Heise14.jpg</file>
+        <file>background_image/Heise15.jpg</file>
+        <file>background_image/Heise16.jpg</file>
+        <file>background_image/Heise17.jpg</file>
+        <file>background_image/Heise18.jpg</file>
+        <file>background_image/Heise19.jpg</file>
+        <file>background_image/Heise20.jpg</file>
+        <file>background_image/Heise1.jpg</file>
+        <file>background_image/Heise2.jpg</file>
+        <file>background_image/Heise3.jpg</file>
+        <file>background_image/Heise4.jpg</file>
+        <file>background_image/Heise5.jpg</file>
+        <file>background_image/Heise6.jpg</file>
+        <file>background_image/Heise7.jpg</file>
+        <file>background_image/Heise8.jpg</file>
+        <file>background_image/Heise9.jpg</file>
+    </qresource>
+</RCC>

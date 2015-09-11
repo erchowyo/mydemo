@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>play.qml</file>
+        <file>start.qml</file>
+        <file>replace.qml</file>
+        <file>content/ContentModel.qml</file>
+        <file>content/FpsItem.qml</file>
+        <file>content/ListItem.qml</file>
+        <file>content/NMapEffect.qml</file>
+        <file>content/NMapLightSource.qml</file>
+        <file>Qt5_NMap_CarouselDemo.qml</file>
+        <file>content/test.qml</file>
+        <file>content/Calendar.qml</file>
+        <file>Change_Background.qml</file>
+        <file>test_menu.qml</file>
+        <file>menu.qml</file>
+    </qresource>
+</RCC>

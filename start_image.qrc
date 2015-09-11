@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>start_image/1.bmp</file>
+        <file>start_image/2.bmp</file>
+        <file>start_image/3.bmp</file>
+        <file>start_image/4.bmp</file>
+        <file>start_image/5.bmp</file>
+        <file>start_image/6.bmp</file>
+        <file>start_image/7.bmp</file>
+        <file>start_image/8.bmp</file>
+        <file>start_image/9.bmp</file>
+        <file>start_image/10.bmp</file>
+        <file>start_image/11.bmp</file>
+        <file>start_image/12.bmp</file>
+        <file>start_image/13.bmp</file>
+        <file>start_image/14.bmp</file>
+        <file>start_image/15.bmp</file>
+        <file>start_image/16.bmp</file>
+        <file>start_image/17.bmp</file>
+        <file>start_image/18.bmp</file>
+        <file>start_image/19.bmp</file>
+        <file>start_image/20.bmp</file>
+        <file>start_image/21.bmp</file>
+        <file>start_image/22.bmp</file>
+    </qresource>
+</RCC>

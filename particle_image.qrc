@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>particle_image/fuzzydot.png</file>
+        <file>particle_image/glowdot.png</file>
+        <file>particle_image/noise.png</file>
+        <file>particle_image/star.png</file>
+        <file>particle_image/greenStar.png</file>
+        <file>particle_image/particle.jpg</file>
+        <file>particle_image/text.jpg</file>
+    </qresource>
+</RCC>

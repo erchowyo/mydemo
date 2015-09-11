@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>content/images/1.png</file>
+        <file>content/images/1n.png</file>
+        <file>content/images/1s.png</file>
+        <file>content/images/2.png</file>
+        <file>content/images/2n.png</file>
+        <file>content/images/2s.png</file>
+        <file>content/images/3.png</file>
+        <file>content/images/3n.png</file>
+        <file>content/images/3s.png</file>
+        <file>content/images/8.png</file>
+        <file>content/images/8n.png</file>
+        <file>content/images/8s.png</file>
+        <file>content/images/9.png</file>
+        <file>content/images/9n.png</file>
+        <file>content/images/9s.png</file>
+        <file>content/images/10.png</file>
+        <file>content/images/10n.png</file>
+        <file>content/images/10s.png</file>
+        <file>content/images/13.png</file>
+        <file>content/images/13n.png</file>
+        <file>content/images/13s.png</file>
+        <file>content/images/15.png</file>
+        <file>content/images/15n.png</file>
+        <file>content/images/15s.png</file>
+        <file>content/images/arrow-right.png</file>
+        <file>content/images/background_lab.png</file>
+        <file>content/images/car.png</file>
+        <file>content/images/set.png</file>
+        <file>content/images/spinner.png</file>
+        <file>content/images/spot.png</file>
+        <file>image/background.jpg</file>
+        <file>image/back.png</file>
+        <file>image/exit.jpg</file>
+        <file>image/menu.jpg</file>
+        <file>image/picture_1.jpg</file>
+        <file>image/picture_2.jpg</file>
+        <file>image/icon_5.png</file>
+        <file>image/quit.png</file>
+        <file>image/icon_4.png</file>
+    </qresource>
+</RCC>
